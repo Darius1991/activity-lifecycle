@@ -31,6 +31,7 @@ import com.example.android.lifecycle.util.Utils;
 public class ActivityA extends Activity {
 
     private String mActivityName;
+    private String duggal;
     private TextView mStatusView;
     private TextView mStatusAllView;
     private StatusTracker mStatusTracker = StatusTracker.getInstance();
